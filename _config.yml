@@ -83,7 +83,7 @@ author:
   name             : "Partha Sarathi"
   avatar           : "profile.png"
   bio              : "Ph.D. Scholar @DoCSE-IIT Patna"
-  location         : "Patna"
+  location         : "Patna, India"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=aaYntkYAAAAJ"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://in.linkedin.com/in/partha-sarathi-chakraborty-770b7921"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
