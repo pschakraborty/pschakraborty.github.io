@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Partha Sarathi Chakraborty"
+title                    : #"Partha Sarathi Chakraborty"
 title_separator          : "-"
 name                     : &name "Partha Sarathi Chakraborty"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Partha Sarathi"
+  name             : "Partha Sarathi Chakraborty"
   avatar           : "profile.png"
   bio              : "Ph.D. Scholar @DoCSE-IIT Patna"
   location         : "Patna, India"
