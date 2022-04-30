@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D.</b> in Computer Science and Engineering, Indian Institute of Technology Patna, (2019 - 2024)
-* M.Tech. in Computer Science and Engineering, KIIT University Bhubaneswar, (2007 - 2009) - Rank 3
-* M.Sc. in Computer Science, University of North Bengal Darjeeling, (2004 - 2006) - Rank 1
-* B.Sc. (Honours) in Computer Science, University of North Bengal Darjeeling, (2001 - 2004) - Rank 1
+* <b>Ph.D.</b> in <i>Computer Science and Engineering</i>, Indian Institute of Technology Patna, (2019 - 2024)
+* <b>M.Tech.</b> in <i>Computer Science and Engineering</i>, KIIT University Bhubaneswar, (2007 - 2009) - Rank 3
+* <b>M.Sc.</b> in <i>Computer Science</i>, University of North Bengal Darjeeling, (2004 - 2006) - Rank 1
+* <b>B.Sc. (Honours)</b> in <i>Computer Science</i>, University of North Bengal Darjeeling, (2001 - 2004) - Rank 1
 
 Work experience
 ======
