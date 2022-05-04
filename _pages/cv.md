@@ -22,6 +22,9 @@ Work experience
 [1] <b>Assistant Professor</b>, Department of Computer Science and Engineering,<br> 
 <b>SRM Institute of Science and Technology</b>, <i>Delhi NCR Campus</i> (July 2010 - till date)
 
+[2] <b>Assistant Professor</b>, Department of Computer Science and Engineering,<br> 
+<b>National Institute of Technology Silchar</b>(July 2009 - Dec 2009)
+
 [2] Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
