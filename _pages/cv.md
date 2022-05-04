@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-[1] <b>Assistant Professor</b>, Department of Computer Science and Engineering, 
+[1] <b>Assistant Professor</b>, Department of Computer Science and Engineering,<br> 
 <b>SRM Institute of Science and Technology</b>, <i>Delhi NCR Campus</i> (July 2010 - till date)
 
 [2] Fall 2015: Research Assistant
