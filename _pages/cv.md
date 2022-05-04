@@ -19,8 +19,8 @@ Education
 
 Work experience
 ======
-[1] Assistant Professor, SRM Institute of Science and Technology (July 2010 - till date)<br>
-    Department of Computer Science and Engineering Delhi NCR Campus
+[1] <b>Assistant Professor</b>, Department of Computer Science and Engineering, 
+<b>SRM Institute of Science and Technology</b>, <i>Delhi NCR Campus</i> (July 2010 - till date)
 
 [2] Fall 2015: Research Assistant
   * Github University
