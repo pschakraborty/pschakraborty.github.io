@@ -25,10 +25,8 @@ Work experience
 [2] <b>Assistant Professor</b>, Department of Computer Science and Engineering,<br> 
 <b>National Institute of Technology Silchar</b>(July 2009 - Dec 2009)
 
-[2] Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[2] <b>Lecturer</b>, Department of Computer Science and Applications,<br> 
+<b>Siliguri College (Govt. Sponsored)</b>(Nov 2006 - Aug 2007)
   
 Skills
 ======
